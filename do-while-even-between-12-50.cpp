@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-    int num = 19;
+    int num = 12;
 
     do
     {
